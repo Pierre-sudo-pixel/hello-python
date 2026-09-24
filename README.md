@@ -9,3 +9,6 @@ explore.ipynb, repeats the experiments interactively.
 
 Lab 1 - Fundamentals of Computer Programming,
 BSc Data Science for Responsible Business.
+## Reflection
+
+Virtual environments help keep each Python project isolated with its own packages and versions. The requirements.txt file records the exact dependencies used in the project, so another person can recreate the same environment. This improves reproducibility because the code can be run in the same conditions on another computer. Reproducibility is important in responsible data science because results should be verifiable and repeatable.
